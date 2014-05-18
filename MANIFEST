@@ -8,7 +8,7 @@ Makefile.PL
 MANIFEST
 MANIFEST.SKIP
 META.yml			Module meta-data (added by MakeMaker)
-README
+README.md
 t/01.t
 t/02.t
 t/testlib/_Auxiliary.pm
