@@ -1,5 +1,4 @@
 #IO-Capture-Extended
-===================
 
 README for Perl extension IO-Capture-Extended
 
