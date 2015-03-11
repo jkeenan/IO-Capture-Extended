@@ -31,3 +31,5 @@ svndiff/
 ^init
 ^results
 ^htmlify
+^.git
+^MYMETA.*

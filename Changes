@@ -1,5 +1,8 @@
 Revision history for Perl extension IO-Capture-Extended
 
+0.13 Wed Mar 11 19:06:32 EDT 2015
+    - Add metadata to Makefile.PL.
+
 0.12 Sat May 17 21:57:55 EDT 2014
     - Updated LICENSE file in response to
       https://rt.cpan.org/Ticket/Display.html?id=73197.

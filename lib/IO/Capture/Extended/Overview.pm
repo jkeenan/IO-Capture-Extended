@@ -7,10 +7,6 @@ use strict;
 
 IO::Capture::Extended - Extend functionality of IO::Capture
 
-=head1 VERSION
-
-0.11, released September 6, 2006.
-
 =head1 SYNOPSIS
 
 The programmer interface consists of two classes:
@@ -413,7 +409,7 @@ James E Keenan.  CPAN ID: JKEENAN.  jkeenan [at] cpan [dot] org.
 
 =head1 COPYRIGHT
 
-Copyright 2005-06 James E Keenan.
+Copyright 2005-15 James E Keenan.
 
 This program is free software; you can redistribute
 it and/or modify it under the same terms as Perl itself.
